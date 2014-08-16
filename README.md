@@ -3,7 +3,7 @@ HTMLToImage
 
 A PHP script that dynamically converts an HTML file into an image (png) and displays it on a page. 
 This is useful if you need to display pages, for example, from an eBook(.epub) or just plain old HTML files, securely. Content from a normal page can be fetched easily, whereas once it is converted into an image dynamically, getting the content from it would require it being run through an OCR script. 
-I've included a sample xhtml file in the "Book" folder that is represents a page from a typical ebook.
+I've included a sample xhtml file in the "Book" folder that represents a page from a typical ebook.
 
 Drawbacks- 
 
